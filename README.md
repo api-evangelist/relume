@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Relume is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://relume.ai/
+Relume is an AI-powered website builder focused on marketing sites. It leverages a component library used across over 2 million websites, allowing users to generate, customize, and publish professional sites via Relume or export them to Webflow, Figma, and React. The platform offers a free tier and paid plans starting at $14/month, emphasizing rapid AI-driven site creation, responsive design, and SEO-friendly content.
+
+**Areas:** Company · AI · Website Builder · Marketing · No-code
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://relume.ai/)
+- [Documentation](https://www.relume.ai/resources/publish/docs)
+- [Getting started](https://www.relume.ai/resources/publish/doc/getting-started-with-relume-publish)
+- [Pricing](https://www.relume.ai/pricing)
+- [Support](https://www.relume.ai/support)
+- [Changelog](https://www.relume.ai/whats-new)
+- [Terms of service](https://www.relume.ai/legal/terms)
+- [Privacy policy](https://www.relume.ai/legal/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/relume/](https://apis.io/providers/relume/).
